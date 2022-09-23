@@ -5,6 +5,8 @@ Created on Fri May  6 16:34:01 2022
 
 @author: josh
 """
+# Uses Macro economic indicators to predict the price of SP500.
+
 
 # import requests
 import pandas as pd
